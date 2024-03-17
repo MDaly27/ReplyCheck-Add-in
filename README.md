@@ -6,15 +6,13 @@ The ReplyCheck Add-in is a productivity tool designed for Outlook users to strea
 
 - Automatically identifies emails that may require a 'reply all' response.
 - Enhances communication clarity by ensuring the appropriate inclusion of recipients in email threads.
-- Seamlessly integrates into the Outlook interface, providing users with real-time suggestions for optimal email responses.
 
 ## Getting Started
 
 To get started with the ReplyCheck Add-in, follow these simple steps:
 
 1. Clone the repository to your local machine.
-2. Install the add-in in your Outlook application.
-3. Activate the add-in in your Outlook settings.
+2. Install and activate the add-in in your Outlook application.
 4. Enjoy improved email communication efficiency with ReplyCheck!
 
 ## Feedback
